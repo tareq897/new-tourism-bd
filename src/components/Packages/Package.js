@@ -19,7 +19,7 @@ const Package = () => {
    
     return (
         <div>
-            <div className="title text-center my-5">
+            <div className="title text-center my-5 background">
                
                 <div className="container my-5">
                     <div className="row row-cols-1 row-cols-md-3 g-4">
